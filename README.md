@@ -1,4 +1,4 @@
-# Full-Stack-Mini-Banking-System
+# Full-Stack-Mini-Banking-System.
 ## Overview
 This project is an end-to-end, Object-Oriented banking simulation designed to demonstrate core software engineering and data analytics principles. 
 
